@@ -4,7 +4,8 @@ import DropdownCredit from "../Dropdown"
 function Footer() {
     return (
         <footer className="footer">
-            Made with ❤️️ by Alana &copy; 2023 Alana Barrett-Frew
+           <div>Made with ❤️️ by Alana &copy; 2023 Alana Barrett-Frew</div> 
+           <DropdownCredit />
         </footer>
     );
 }

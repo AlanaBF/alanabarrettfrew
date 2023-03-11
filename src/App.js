@@ -1,6 +1,6 @@
 import React from 'react';
 import { HashRouter as Router, Route, Routes } from 'react-router-dom';
-import {Home, Contact, ProjectGallery, CV, Skills} from "./Pages"
+import {Home, Contact, ProjectGallery, CV } from "./Pages"
 import {Footer, Header} from "./components";
 
 function App() {
@@ -13,7 +13,6 @@ function App() {
           <Route path="/Contact" element={<Contact />} />
           <Route path="/CV" element={<CV />} />
           <Route path="/ProjectGallery" element={<ProjectGallery />} />
-          <Route path="/Skills" element={<Skills />} />
         </Routes>
         <Footer/>
     </Router>

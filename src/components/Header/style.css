@@ -5,7 +5,7 @@
 }
 
 nav a:hover {
-  color: #5FF!important;
+  color:dimgrey !important;
 }
 
 .navbar-brand {
@@ -20,6 +20,10 @@ nav a:hover {
   font-size: 30px;
   justify-content: space-around;
  
+}
+
+.nav-link {
+  color: #5FF !important;
 }
 
 .me-auto {
