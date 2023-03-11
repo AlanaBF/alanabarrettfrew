@@ -12,7 +12,7 @@ function Header() {
     <Navbar bg="light" expand="lg">
       <Container>
         <LinkContainer to="/Home">
-          <Navbar.Brand><a href="#"> <img src={favicon} alt=""></img>Alana Barrett-Frew</a></Navbar.Brand>
+          <Navbar.Brand><a href="/Home"> <img src={favicon} alt=""></img>Alana Barrett-Frew</a></Navbar.Brand>
         </LinkContainer>
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav">
