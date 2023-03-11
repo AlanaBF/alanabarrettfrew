@@ -1,0 +1,51 @@
+.homeBackground {
+  background-image: url(../../Pages/Home/assets/images/vecteezy_beach-holiday-summer-background_7076104.jpg);
+
+ 
+}
+
+.myname {
+  color: rgb(5, 85, 146) !important;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  text-align: center;
+}
+
+
+.brand {
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  text-align: center;
+  color: rgb(5, 85, 146) !important;
+}
+
+h1 {
+  font-style: italic;
+  color: rgb(5, 85, 146) !important;
+  padding: 1rem;
+  text-align: center;
+  font-size: 50px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+h2 {
+  color: #5FF !important;
+  font-size: 30px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  text-align: left;
+}
+
+.text {
+  color: rgb(5, 85, 146) !important;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-size: 25px;
+  text-align: center;
+  margin-left: 15%;
+  margin-right: 15%;
+}
+
+.profilePic {
+  margin-left: 42.5%;
+  width: 15%;
+  height: 30%;
+
+}
+

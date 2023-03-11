@@ -1,0 +1,40 @@
+.card {
+  background: #fff;
+  border-radius: 2%;
+  border: 1rem solid #48B;
+  height: 40rem;
+  margin: 1%;
+  position: relative;
+  width: 30%;
+}
+
+.card .img-container {
+  height: 60%;
+  width: 100%;
+  background: #48B;
+  
+}
+
+.card .img-container img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  overflow: hidden !important;
+  border-radius: 2%;
+}
+
+.card .content {
+  padding-left: 1%;
+  padding-right: 1%;
+  font-size: 100%;
+  border-top: 1rem solid #48B
+}
+
+h5 {
+  font-size:100%;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.card .content ul li {
+  margin-top: 18px;
+}

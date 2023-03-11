@@ -1,0 +1,46 @@
+.formlabel {
+    color: rgb(5, 85, 146) !important;
+    margin-left:45%;
+    margin-right: 40%;
+    text-align: center;
+    justify-content: center;
+    font-weight: bold;
+    font-size: 2rem;
+}
+
+.forminput{
+    margin-left: 35%;
+    margin-right: 45%;
+    text-align: center;
+    justify-content: center;
+    width: 30%
+}
+
+.formsubmit {
+    margin-left: 40%;
+    margin-right: 40%;
+    text-align: center;
+    justify-content: center;
+    background-color: rgb(5, 85, 146) !important;
+    color: #5FF;
+    font-weight: bold;
+    font-size: 2rem;
+    width: 20%;
+    margin-bottom: 5%
+}
+
+.messagebox {
+    margin-left:35%;
+    text-align: center;
+    justify-content: center;
+    width: 30%;
+}
+
+.messagelabel {
+    color: rgb(5, 85, 146) !important;
+    font-weight: bold;
+    font-size: 2rem;
+    margin-left: 41.5%;
+    text-align: center;
+    justify-content: center;
+}

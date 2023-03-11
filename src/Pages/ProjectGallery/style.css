@@ -1,0 +1,12 @@
+.intro {
+    text-align: center;
+    justify-content: center;
+    margin-top: 1%;
+    margin-bottom: 1%;
+ 
+}
+.galleryBackground {
+    background-repeat: no-repeat;
+    background-size: 100% !important; 
+    background-image: url(../../Pages/ProjectGallery/assets/vecteezy_the-wild-ocean-view_6177787.jpg)
+  }
