@@ -7,7 +7,7 @@ function Home() {
     return (
             <div className="homeBackground">
                 <Title>Welcome to my Portfolio</Title>
-                <img src={ProfilePic} className="profilePic" />
+                <img src={ProfilePic} className="profilePic" alt=""/>
                 <h2 className="myname">Alana Barrett-Frew</h2>
                 <h2 className="brand">Front End Web Developer and Educator.</h2>
                 <p className="text">
