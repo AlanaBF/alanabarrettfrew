@@ -1,8 +1,5 @@
 import React from "react";
 import "./style.css";
-import Button from 'react-bootstrap/Button';
-import { LinkContainer } from "react-router-bootstrap";
-import Nav from 'react-bootstrap/Nav';
 import ContactMe from "../../components/ContactMe/index";
 import Title from "../../components/Title"
 

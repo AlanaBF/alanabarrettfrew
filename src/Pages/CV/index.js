@@ -1,8 +1,8 @@
 import React from "react";
-import AlanaCV from './assets/Alana-Barrett-Frew-CV.pdf'
-import Button from 'react-bootstrap/Button';
+import AlanaCV from './assets/Alana-Barrett-Frew-CV.pdf';
 import './style.css'
 import Title from "../../components/Title"
+
 function CV() {
     return (
         <div className="cvBackground">
